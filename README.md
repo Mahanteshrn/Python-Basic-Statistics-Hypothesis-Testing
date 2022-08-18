@@ -46,6 +46,9 @@ means of 2 or more populations are unequal (in the test of means). For this alte
 
 In either of the above 2 tests if the sample tested falls in the critical region than the alternate hypothesis holds to be true and the null hypothesis is rejected. 
 The alternate hypothesis is made as a conclusive observation for the population-based on sample data.
+
+![image](https://user-images.githubusercontent.com/111371078/185462168-3d0d11e3-6143-4de7-b92a-5b9e09008a8c.png)
+
  
 Types of Test Statistics
 
